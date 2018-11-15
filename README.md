@@ -4,6 +4,6 @@
 
 ### Designs
 
-   * [0000 ^H Logo](
-   * [0001 Soldering Iron](
-   * [0010 I Hacked a Bucket](
+   * [0000 ^H Logo](0000-logo.png "image")
+   * [0001 Soldering Iron]
+   * [0010 I Hacked a Bucket]
