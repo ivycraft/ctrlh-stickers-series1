@@ -11,3 +11,6 @@
    * 0100 Truck
    * [0101 Nyan Cat](images/0101-nyan-cat.png "image")
    * 0110 VR
+   * 0111 Computer
+   * 1000 Telephone
+   
