@@ -9,5 +9,5 @@
    * [0010 I Hacked a Bucket](images/0010-bucket.png "image")
    * 0011 Lock
    * 0100 Truck
-   * 0101 Nyan Cat
+   * [0101 Nyan Cat](images/0101-nyan-cat.png "image")
    * 0110 VR
