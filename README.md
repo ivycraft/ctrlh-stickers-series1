@@ -5,8 +5,8 @@
 ### Designs
 
    * [0000 ^H Logo](images/0000-logo.png "image")
-   * 0001 Soldering Iron
-   * 0010 I Hacked a Bucket
+   * [0001 Soldering Iron](images/0001-soldering-iron.png "image")
+   * [0010 I Hacked a Bucket](images/0010-bucket.png "image")
    * 0011 Lock
    * 0100 Truck
    * 0101 Nyan Cat
