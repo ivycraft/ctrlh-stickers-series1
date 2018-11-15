@@ -4,7 +4,7 @@
 
 ### Designs
 
-   * 0000 ^H Logo
+   * [0000 ^H Logo](design/files/logo.svg "design file")
    * 0001 Soldering Iron
    * 0010 I Hacked a Bucket
    * 0011 Lock
