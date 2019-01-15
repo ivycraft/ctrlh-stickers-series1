@@ -14,5 +14,5 @@
    * 0111 Computer
    * 1000 Telephone
    
-   * [Social Media Logo](images/twitterlogo_1.png "image")
+   * Social media logo
    
